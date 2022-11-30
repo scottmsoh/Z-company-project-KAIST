@@ -16,7 +16,7 @@
   
     * Where are the women's clothing shopping malls preferred by customers?
      
-        **→ During the course of using the service, customers can recommend a shopping mall or product (via e-mail or after use) and then up sell the product to the customer**
+        **→ During the course of using the service, platform can recommend a shopping mall or product (via e-mail or after use) and then up sell the product to the customer**
   
   
 ###### * Impossible to upload the raw data (csv)
