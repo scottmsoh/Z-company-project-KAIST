@@ -11,7 +11,7 @@
      
    * How do customers go through the process of purchasing products in this platform?
         
-        **→ Analyze behavior patterns optimizes customer purchasing routes or reduces users leaving without purchasing --> increase revenue**
+        **→ Analyze behavior patterns optimizing customer purchasing routes or reducing users leaving without purchasing --> increase revenue**
         
   
     * Where are the women's clothing shopping malls preferred by customers?
